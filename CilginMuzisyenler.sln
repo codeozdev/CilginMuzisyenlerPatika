@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CilginMuzisyenler", "CilginMuzisyenler\CilginMuzisyenler.csproj", "{09618CD3-E34E-457E-9EBA-BDE95199DB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09618CD3-E34E-457E-9EBA-BDE95199DB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09618CD3-E34E-457E-9EBA-BDE95199DB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09618CD3-E34E-457E-9EBA-BDE95199DB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09618CD3-E34E-457E-9EBA-BDE95199DB14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
